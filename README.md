@@ -2,9 +2,6 @@
 
 Banking & Finance graduate. Always having a desire to learn, now I am a Javascript developer, looking for a job in web development.
 
-Banking & Finance graduate.
-: Always having a desire to learn, now I am a JavaScript developer, looking for a job in web development.
-
 ---
 
 <a href="#contact" style="color: #472CE6">Contact </a> | <a href="#projects" style="color: #472CE6">Projects </a> | <a href="#technical-skills" style="color: #472CE6">Technical skills </a> | <a href="#soft-skills" style="color: #472CE6">Soft Skills </a> | <a href="#experience" style="color: #472CE6">Experience </a> | <a href="#education" style="color: #472CE6">Education</a> | <a href="#hobbies" style="color: #472CE6">Hobbies</a> | <a href="#more" style="color: #472CE6">See more</a>
