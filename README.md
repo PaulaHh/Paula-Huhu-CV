@@ -11,18 +11,20 @@ Banking & Finance graduate.
 
 ### <p id="contact" style="color: #472CE6">Contact</p>
 
-<a href="https://www.linkedin.com/in/paula-huhu/"><img src="logos/linkedin.png" width="50"></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/MaryDomashneva"><img src="logos/github.png" width="50"></a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://github.com/MaryDomashneva"><img src="logos/mywebsite.png" width="50"></a> 
+<a href="https://www.linkedin.com/in/paula-huhu/"><img src="logos/linkedin.png" width="50"></a> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://github.com/PaulaHh"><img src="logos/github.png" width="50"></a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="https://paulahuhu.com"><img src="logos/mywebsite.png" width="50"></a> 
 
-My craving for knowledge always ended with me starting totally new projects in my prior profession as a finance analyst.
+something about me.
 
 ***
 
 
 ### <p id="projects" style="color: #472CE6">HyperionDev Projects</p>
 
-Project | Repo | Description | Technologies Used| Testing Technologies | Link
---- | --- | --- | --- | --- | ---
-continuarea tabelului...
+Project | Repository | Description | Technologies Used | Link | Preview
+--- | --- | --- | --- | --- | --- | ---
+**Wildlife Photography** |&nbsp; &nbsp;  <a href="https://github.com/PaulaHh/PaulaHh.github.io"><img src="logos/github.png" width="45"></a> | Project created using only frontend HTML and CSS. Requirements were: have a functional "save for later" button and page, a form for comments, a like button for multiple photos/articles and a contact form. This website is hosted by GitHub Pages.| HTML, CSS, Bootstrap | <a href="https://paulahh.github.io/photographers.html">See website</a> | <img src="./previews/wildlife-website.jpg">&nbsp; <img src="./previews/wildlife-website_2.jpg">
+**Weather App** |&nbsp; &nbsp;  <a href="link"><img src="logos/github.png" width="45"></a> | Client-side dynamic weather web application that generates data based on user input. Background is also dynamic and it changes depending on the weather code. This app make use of 2 free public APIs. | JavaScript, HTML, CSS, Bootstrap, API | --- | <img src="./previews/weatherApp.jpg">&nbsp; <img src="./previews/weatherApp_2.jpg">
+**Periodic Table** |&nbsp; &nbsp;  <a href="link"><img src="logos/github.png" width="45"></a> | --- | HTML, CSS, Responsive Web Design | -- | ---
 
 
 ---
